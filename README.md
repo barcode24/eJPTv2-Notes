@@ -6,11 +6,11 @@ The **eLearnSecurity Junior Penetration Tester (eJPTv2)** is a 100% practical ex
 * **Exam Format:** Practical, black-box penetration test simulation.
 * **Duration:** 48 hours of hands-on practical assessment.
 * **Passing Score:** 70% or higher.
+* **Exam Policy:** 100% **Open-book** (you are free to use your personal notes, cheat-sheets, and documentation during the exam).
 * **Scope:** Network auditing, host/network penetration testing, web application security, and basic pivoting.
 * **Objective:** Find vulnerabilities, exploit them, extract flags/credentials, and report the findings.
 
 ---
-
 
 
 ## 🧪 Practical Labs & Hands-on Practice
