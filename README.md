@@ -4,6 +4,7 @@
 ## 🧪 Practical Labs & Hands-on Practice
 To bridge the gap between theory and practice, I applied the concepts learned in this course through structured labs and machines from:
 * **INE / eJPTv2 Official Labs**
+* > 📚 **Official Course Path:** [INE Penetration Testing Student (eJPTv2)](https://my.ine.com/CyberSecurity/learning-paths/61f88d91-79ff-4d8f-af68-873883dbbd8c/penetration-testing-student)
 
 ### Linux Fundamentals 🐧
 * TryHackMe | [Learn Linux](https://tryhackme.com/room/zthlinux)
